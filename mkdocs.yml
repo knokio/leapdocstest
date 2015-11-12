@@ -1,0 +1,3 @@
+site_name: Leap Docs
+use_directory_urls: false
+theme: readthedocs
